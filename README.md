@@ -9,3 +9,5 @@ By Sailor's author(s)
 
 Others: 
 * [Céu na terra - IoT testbed](http://ceunaterra.voip.ufrj.br/)
+* [Starlight - Lua to Javascript translator](http://starlight.paulcuth.me.uk/)
+* [Daniel's blog](http://ablogusingsailor.danielocl.com.br/)
