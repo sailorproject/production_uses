@@ -15,5 +15,4 @@ Others:
 * [Starlight - Lua to Javascript translator](http://starlight.paulcuth.me.uk/)
 * [Daniel's blog](http://ablogusingsailor.danielocl.com.br/)
 
-## Development
-* [Amora Labs - a coding school](http://amoralabs.com/)
+
